@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_tittle_size">25sp</dimen>
+    <dimen name="text_size_contact">15sp</dimen>
+    <dimen name="padding_horizontal_form">25dp</dimen>
+    <dimen name="margintop_name_contact_form">10dp</dimen>
+    <dimen name="padding_vertical_form">30dp</dimen>
+    <dimen name="margitop_bettew_edittext">25dp</dimen>
+    <dimen name="padding_top_form">50dp</dimen>
+    <dimen name="textsize_confirm">40sp</dimen>
+    <dimen name="paddingleft_confirm">60dp</dimen>
+    <dimen name="paddingtop_confirm">20dp</dimen>
+    <dimen name="textsize_datos">18sp</dimen>
+    <dimen name="paddingleft_data">10dp</dimen>
+    <dimen name="margintop_bettew_data">20dp</dimen>
+</resources>

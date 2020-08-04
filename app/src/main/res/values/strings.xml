@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="tittle_option2_menu_appbar">Acerca de</string>
+    <string name="tittle_option1_menu_appbar">Contacto</string>
+    <string name="name_contact">Nombre</string>
+    <string name="date">Fecha</string>
+    <string name="phone">Telefono</string>
+    <string name="mail">Email</string>
+    <string name="contact_description">Descripción del contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="confirm">Cofirmar Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="edit_data">Editar datos</string>
+</resources>

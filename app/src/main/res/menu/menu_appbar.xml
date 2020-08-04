@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/option1_menu_appbar"
+        android:enabled="true"
+        android:title="@string/tittle_option1_menu_appbar"/>
+
+    <item
+        android:id="@+id/option2_menu_appbar"
+        android:enabled="true"
+        android:title="@string/tittle_option2_menu_appbar"/>
+</menu>
